@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/FR/Football/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/drawable/custom_buttom.xml" value="0.2703125" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/drawable/ic_menu_camera.xml" value="0.2703125" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2703125" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.2703125" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/drawable/menu_bar.xml" value="0.2703125" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/drawable/menu_icon1.xml" value="0.2703125" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/drawable/side_nav_bar.xml" value="0.2703125" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/layout/activity_main.xml" value="0.20380434782608695" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/layout/activity_slide_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/layout/activity_userlist.xml" value="0.20380434782608695" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/layout/app_bar_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/layout/app_bar_slide_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/layout/content_slide_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/layout/fragment_gallery.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/layout/fragment_slideshow.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/layout/item.xml" value="0.20380434782608695" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/layout/item_recycleview.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/layout/kit_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/layout/menu_frag.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/layout/nav_header_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/layout/nav_header_slide_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/layout/recycle_frag.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/layout/toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/menu/activity_main_drawer.xml" value="0.536" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/FR/Football/app/src/main/res/menu/slide_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

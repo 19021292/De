@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mnClb"
+        android:title="Áo Câu lạc bộ"/>
+    <item android:id="@+id/mnDtqg"
+        android:title="Áo Đội tuyển quốc gia"/>
+    <item android:id="@+id/mnGiay"
+        android:title="Giày bóng đá"/>
+    <item android:id="@+id/mnAo"
+        android:title="Áo khoác, áo tập, ..."/>
+    <item android:id="@+id/mnPhukien"
+        android:title="Phụ kiện"/>
+    <item android:id="@+id/mnAodoi"
+        android:title="In áo đá bóng"/>
+</menu>

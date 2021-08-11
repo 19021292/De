@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "805908130773",
+    "firebase_url": "https://futbal272-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "futbal272",
+    "storage_bucket": "futbal272.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805908130773:android:1cd651139737c6e6b5eb5c",
+        "android_client_info": {
+          "package_name": "com.example.football"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805908130773-226hn33iv5in4rmdh3prufq37sqgpbqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqwbLbdcLLa3Pn5szVYETUSUr--tm1-hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805908130773-226hn33iv5in4rmdh3prufq37sqgpbqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

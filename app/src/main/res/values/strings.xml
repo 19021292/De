@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Football</string>
+    <string name="phone">0123456789</string>
+    <string name="shop_name">FutBallShop.com</string>
+    <string name="clb_menu">Áo Câu lạc bộ</string>
+    <string name="epl_menu"> Ngoại hạng Anh</string>
+    <string name="ls_menu"> La Liga và Serie A </string>
+    <string name="title_activity_slide_menu">SlideMenu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+</resources>
